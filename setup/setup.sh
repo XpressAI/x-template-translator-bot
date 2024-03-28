@@ -2,8 +2,8 @@
 
 set -e
 
-xircuits install xai-flask
-xircuits install xai-openai
-xircuits install xai-slack
+xircuits install flask
+xircuits install openai
+xircuits install slack
 
 
